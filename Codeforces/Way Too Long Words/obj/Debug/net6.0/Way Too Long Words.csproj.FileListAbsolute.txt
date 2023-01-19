@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\bin\Debug\net6.0\Way Too Long Words.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\refint\Way Too Long Words.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\Way Too Long Words.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Way Too Long Words\obj\Debug\net6.0\ref\Way Too Long Words.dll
