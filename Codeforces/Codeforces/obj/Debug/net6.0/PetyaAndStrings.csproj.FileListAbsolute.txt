@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\bin\Debug\net6.0\PetyaAndStrings.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\bin\Debug\net6.0\PetyaAndStrings.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\bin\Debug\net6.0\PetyaAndStrings.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\bin\Debug\net6.0\PetyaAndStrings.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\bin\Debug\net6.0\PetyaAndStrings.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\refint\PetyaAndStrings.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\PetyaAndStrings.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Codeforces\obj\Debug\net6.0\ref\PetyaAndStrings.dll

@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PetyaAndStrings", "Codeforces\PetyaAndStrings.csproj", "{1FCAA391-FD08-480E-A603-0EAB22C9E2CE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1FCAA391-FD08-480E-A603-0EAB22C9E2CE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1FCAA391-FD08-480E-A603-0EAB22C9E2CE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1FCAA391-FD08-480E-A603-0EAB22C9E2CE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1FCAA391-FD08-480E-A603-0EAB22C9E2CE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {661268A7-1CE4-44AE-99BA-0D5F2CCCCAD4}
+	EndGlobalSection
+EndGlobal
