@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\bin\Debug\net6.0\Boy or Girl.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\bin\Debug\net6.0\Boy or Girl.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\bin\Debug\net6.0\Boy or Girl.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\bin\Debug\net6.0\Boy or Girl.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\bin\Debug\net6.0\Boy or Girl.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\refint\Boy or Girl.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\Boy or Girl.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Boy or Girl\obj\Debug\net6.0\ref\Boy or Girl.dll

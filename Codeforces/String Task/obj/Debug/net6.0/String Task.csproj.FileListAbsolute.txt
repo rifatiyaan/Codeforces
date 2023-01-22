@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\bin\Debug\net6.0\String Task.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\bin\Debug\net6.0\String Task.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\bin\Debug\net6.0\String Task.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\bin\Debug\net6.0\String Task.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\bin\Debug\net6.0\String Task.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\refint\String Task.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\String Task.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\String Task\obj\Debug\net6.0\ref\String Task.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\bin\Debug\net6.0\Helpful Maths.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\bin\Debug\net6.0\Helpful Maths.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\bin\Debug\net6.0\Helpful Maths.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\bin\Debug\net6.0\Helpful Maths.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\bin\Debug\net6.0\Helpful Maths.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\refint\Helpful Maths.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\Helpful Maths.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Helpful Maths\obj\Debug\net6.0\ref\Helpful Maths.dll

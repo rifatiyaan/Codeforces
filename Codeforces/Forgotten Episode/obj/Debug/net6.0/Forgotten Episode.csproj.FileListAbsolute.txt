@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\bin\Debug\net6.0\Forgotten Episode.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\bin\Debug\net6.0\Forgotten Episode.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\bin\Debug\net6.0\Forgotten Episode.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\bin\Debug\net6.0\Forgotten Episode.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\bin\Debug\net6.0\Forgotten Episode.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\refint\Forgotten Episode.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\Forgotten Episode.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Forgotten Episode\obj\Debug\net6.0\ref\Forgotten Episode.dll
