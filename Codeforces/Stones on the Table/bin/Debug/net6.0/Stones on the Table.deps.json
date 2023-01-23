@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v6.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v6.0": {
+      "Stones on the Table/1.0.0": {
+        "runtime": {
+          "Stones on the Table.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Stones on the Table/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

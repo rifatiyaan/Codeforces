@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\bin\Debug\net6.0\Bear and Big Brother.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\refint\Bear and Big Brother.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\Bear and Big Brother.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Bear and Big Brother\obj\Debug\net6.0\ref\Bear and Big Brother.dll
