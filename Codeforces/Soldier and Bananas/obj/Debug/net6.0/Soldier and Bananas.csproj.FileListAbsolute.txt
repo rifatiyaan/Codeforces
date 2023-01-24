@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\bin\Debug\net6.0\Soldier and Bananas.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\bin\Debug\net6.0\Soldier and Bananas.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\bin\Debug\net6.0\Soldier and Bananas.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\bin\Debug\net6.0\Soldier and Bananas.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\bin\Debug\net6.0\Soldier and Bananas.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\refint\Soldier and Bananas.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\Soldier and Bananas.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Soldier and Bananas\obj\Debug\net6.0\ref\Soldier and Bananas.dll
