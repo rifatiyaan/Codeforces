@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "In Search of an Easy Problem/1.0.0": {
+        "runtime": {
+          "In Search of an Easy Problem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "In Search of an Easy Problem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

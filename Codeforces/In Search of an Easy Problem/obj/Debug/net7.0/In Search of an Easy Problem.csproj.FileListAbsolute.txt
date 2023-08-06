@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\bin\Debug\net7.0\In Search of an Easy Problem.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\bin\Debug\net7.0\In Search of an Easy Problem.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\bin\Debug\net7.0\In Search of an Easy Problem.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\bin\Debug\net7.0\In Search of an Easy Problem.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\bin\Debug\net7.0\In Search of an Easy Problem.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\refint\In Search of an Easy Problem.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\In Search of an Easy Problem.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\In Search of an Easy Problem\obj\Debug\net7.0\ref\In Search of an Easy Problem.dll

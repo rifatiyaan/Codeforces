@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\bin\Debug\net7.0\HQ9+.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\bin\Debug\net7.0\HQ9+.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\bin\Debug\net7.0\HQ9+.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\bin\Debug\net7.0\HQ9+.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\bin\Debug\net7.0\HQ9+.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\refint\HQ9+.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\HQ9+.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\HQ9+\obj\Debug\net7.0\ref\HQ9+.dll

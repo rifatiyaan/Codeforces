@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\bin\Debug\net7.0\Nearly Lucky Numbers.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\bin\Debug\net7.0\Nearly Lucky Numbers.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\bin\Debug\net7.0\Nearly Lucky Numbers.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\bin\Debug\net7.0\Nearly Lucky Numbers.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\bin\Debug\net7.0\Nearly Lucky Numbers.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\refint\Nearly Lucky Numbers.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\Nearly Lucky Numbers.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\obj\Debug\net7.0\ref\Nearly Lucky Numbers.dll

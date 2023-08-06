@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\bin\Debug\net7.0\Anton and Danik.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\bin\Debug\net7.0\Anton and Danik.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\bin\Debug\net7.0\Anton and Danik.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\bin\Debug\net7.0\Anton and Danik.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\bin\Debug\net7.0\Anton and Danik.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\refint\Anton and Danik.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\Anton and Danik.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Anton and Danik\obj\Debug\net7.0\ref\Anton and Danik.dll

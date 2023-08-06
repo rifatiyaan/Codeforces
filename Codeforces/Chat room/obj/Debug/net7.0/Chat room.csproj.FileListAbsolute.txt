@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\bin\Debug\net7.0\Chat room.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\bin\Debug\net7.0\Chat room.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\bin\Debug\net7.0\Chat room.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\bin\Debug\net7.0\Chat room.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\bin\Debug\net7.0\Chat room.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\refint\Chat room.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\Chat room.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Chat room\obj\Debug\net7.0\ref\Chat room.dll

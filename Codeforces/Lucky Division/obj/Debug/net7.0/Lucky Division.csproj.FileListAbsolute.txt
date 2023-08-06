@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\bin\Debug\net7.0\Lucky Division.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\bin\Debug\net7.0\Lucky Division.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\bin\Debug\net7.0\Lucky Division.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\bin\Debug\net7.0\Lucky Division.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\bin\Debug\net7.0\Lucky Division.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\refint\Lucky Division.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\Lucky Division.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Lucky Division\obj\Debug\net7.0\ref\Lucky Division.dll

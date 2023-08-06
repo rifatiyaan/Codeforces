@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\bin\Debug\net7.0\Beautiful Year.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\bin\Debug\net7.0\Beautiful Year.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\bin\Debug\net7.0\Beautiful Year.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\bin\Debug\net7.0\Beautiful Year.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\bin\Debug\net7.0\Beautiful Year.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\refint\Beautiful Year.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\Beautiful Year.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Beautiful Year\obj\Debug\net7.0\ref\Beautiful Year.dll

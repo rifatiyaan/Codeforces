@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\bin\Debug\net7.0\Twins.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\bin\Debug\net7.0\Twins.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\bin\Debug\net7.0\Twins.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\bin\Debug\net7.0\Twins.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\bin\Debug\net7.0\Twins.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\refint\Twins.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\Twins.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Twins\obj\Debug\net7.0\ref\Twins.dll

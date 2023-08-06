@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\bin\Debug\net7.0\Queue at the School.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\bin\Debug\net7.0\Queue at the School.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\bin\Debug\net7.0\Queue at the School.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\bin\Debug\net7.0\Queue at the School.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\bin\Debug\net7.0\Queue at the School.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\refint\Queue at the School.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\Queue at the School.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Queue at the School\obj\Debug\net7.0\ref\Queue at the School.dll

@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\bin\Debug\net7.0\Vanya and Fence.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\bin\Debug\net7.0\Vanya and Fence.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\bin\Debug\net7.0\Vanya and Fence.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\bin\Debug\net7.0\Vanya and Fence.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\bin\Debug\net7.0\Vanya and Fence.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\refint\Vanya and Fence.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\Vanya and Fence.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Vanya and Fence\obj\Debug\net7.0\ref\Vanya and Fence.dll

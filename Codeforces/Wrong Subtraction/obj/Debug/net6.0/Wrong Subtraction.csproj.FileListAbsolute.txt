@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\bin\Debug\net6.0\Wrong Subtraction.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\refint\Wrong Subtraction.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\Wrong Subtraction.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Wrong Subtraction\obj\Debug\net6.0\ref\Wrong Subtraction.dll

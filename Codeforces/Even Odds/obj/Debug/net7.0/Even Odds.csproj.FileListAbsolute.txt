@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\bin\Debug\net7.0\Even Odds.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\bin\Debug\net7.0\Even Odds.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\bin\Debug\net7.0\Even Odds.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\bin\Debug\net7.0\Even Odds.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\bin\Debug\net7.0\Even Odds.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\refint\Even Odds.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\Even Odds.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Even Odds\obj\Debug\net7.0\ref\Even Odds.dll
