@@ -1,17 +1,10 @@
-﻿using System.Collections.Generic;
+﻿var input = Console.ReadLine().Split(" ");
 
-var input = Console.ReadLine().Split(" ");
-string[] array = input;
+int firstInput = int.Parse(input[0]);
+int secondInput = int.Parse(input[1]);
 
-
-foreach (var item in array)
+for (int s = 0; s < secondInput; s++)
 {
-    int first = int.Parse(array[0]);
-    int second = int.Parse(array[1]);
-    if (first > 0 && first % 10 != 0)
-	{
-        first--;
-    }
-	first= first / 10;
-    Console.WriteLine(first);
+   firstInput = ((firstInput % 10) == 0)? firstInput / 10 : firstInput - 1;
 }
+Console.WriteLine(firstInput);

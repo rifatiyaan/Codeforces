@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\bin\Debug\net7.0\A. I Wanna Be the Guy.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\bin\Debug\net7.0\A. I Wanna Be the Guy.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\bin\Debug\net7.0\A. I Wanna Be the Guy.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\bin\Debug\net7.0\A. I Wanna Be the Guy.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\bin\Debug\net7.0\A. I Wanna Be the Guy.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\refint\A. I Wanna Be the Guy.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\A. I Wanna Be the Guy.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. I Wanna Be the Guy\obj\Debug\net7.0\ref\A. I Wanna Be the Guy.dll
