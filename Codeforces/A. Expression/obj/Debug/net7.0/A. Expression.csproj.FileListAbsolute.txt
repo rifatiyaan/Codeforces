@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\bin\Debug\net7.0\A. Expression.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\bin\Debug\net7.0\A. Expression.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\bin\Debug\net7.0\A. Expression.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\bin\Debug\net7.0\A. Expression.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\bin\Debug\net7.0\A. Expression.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\refint\A. Expression.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\A. Expression.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Expression\obj\Debug\net7.0\ref\A. Expression.dll
