@@ -21,10 +21,6 @@ for(int i = 0;i < line.Length; i++)
         result[i] = "B";  
     }
  
-    //else 
-    //{
-    //    result[i] = "B";
-    //}
 }
 foreach (var item in result)
 {
