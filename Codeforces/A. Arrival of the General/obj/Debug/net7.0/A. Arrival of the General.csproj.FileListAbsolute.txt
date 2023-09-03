@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\bin\Debug\net7.0\A. Arrival of the General.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\bin\Debug\net7.0\A. Arrival of the General.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\bin\Debug\net7.0\A. Arrival of the General.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\bin\Debug\net7.0\A. Arrival of the General.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\bin\Debug\net7.0\A. Arrival of the General.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\refint\A. Arrival of the General.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\A. Arrival of the General.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Arrival of the General\obj\Debug\net7.0\ref\A. Arrival of the General.dll
