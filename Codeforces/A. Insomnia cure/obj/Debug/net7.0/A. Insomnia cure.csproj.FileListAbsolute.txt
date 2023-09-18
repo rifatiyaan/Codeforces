@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\bin\Debug\net7.0\A. Insomnia cure.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\bin\Debug\net7.0\A. Insomnia cure.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\bin\Debug\net7.0\A. Insomnia cure.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\bin\Debug\net7.0\A. Insomnia cure.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\bin\Debug\net7.0\A. Insomnia cure.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\refint\A. Insomnia cure.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\A. Insomnia cure.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Insomnia cure\obj\Debug\net7.0\ref\A. Insomnia cure.dll

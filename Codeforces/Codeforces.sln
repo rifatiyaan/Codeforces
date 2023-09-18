@@ -81,7 +81,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Arrival of the General",
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Divisibility Problem", "A. Divisibility Problem\A. Divisibility Problem.csproj", "{DECD7CC1-6AB3-442C-8A93-B57096A5F2DE}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Pangram", "Pangram\Pangram.csproj", "{E8558693-696D-47B4-8C32-15AC893F234C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Pangram", "Pangram\Pangram.csproj", "{E8558693-696D-47B4-8C32-15AC893F234C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Insomnia cure", "A. Insomnia cure\A. Insomnia cure.csproj", "{F1C82272-B541-47A2-AB9B-F47B0FD072D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Kefa and First Steps", "A. Kefa and First Steps\A. Kefa and First Steps.csproj", "{9CA5823D-B0EE-45D5-80C6-93779A09AE3D}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -249,6 +253,14 @@ Global
 		{E8558693-696D-47B4-8C32-15AC893F234C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E8558693-696D-47B4-8C32-15AC893F234C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E8558693-696D-47B4-8C32-15AC893F234C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F1C82272-B541-47A2-AB9B-F47B0FD072D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F1C82272-B541-47A2-AB9B-F47B0FD072D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F1C82272-B541-47A2-AB9B-F47B0FD072D1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F1C82272-B541-47A2-AB9B-F47B0FD072D1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9CA5823D-B0EE-45D5-80C6-93779A09AE3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9CA5823D-B0EE-45D5-80C6-93779A09AE3D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9CA5823D-B0EE-45D5-80C6-93779A09AE3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9CA5823D-B0EE-45D5-80C6-93779A09AE3D}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

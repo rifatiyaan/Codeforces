@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "A. Kefa and First Steps/1.0.0": {
+        "runtime": {
+          "A. Kefa and First Steps.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "A. Kefa and First Steps/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

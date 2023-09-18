@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\bin\Debug\net7.0\A. Kefa and First Steps.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\bin\Debug\net7.0\A. Kefa and First Steps.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\bin\Debug\net7.0\A. Kefa and First Steps.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\bin\Debug\net7.0\A. Kefa and First Steps.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\bin\Debug\net7.0\A. Kefa and First Steps.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\refint\A. Kefa and First Steps.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\A. Kefa and First Steps.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Kefa and First Steps\obj\Debug\net7.0\ref\A. Kefa and First Steps.dll
