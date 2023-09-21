@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\bin\Debug\net7.0\B. Taxi.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\bin\Debug\net7.0\B. Taxi.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\bin\Debug\net7.0\B. Taxi.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\bin\Debug\net7.0\B. Taxi.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\bin\Debug\net7.0\B. Taxi.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\refint\B. Taxi.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\B. Taxi.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\B. Taxi\obj\Debug\net7.0\ref\B. Taxi.dll

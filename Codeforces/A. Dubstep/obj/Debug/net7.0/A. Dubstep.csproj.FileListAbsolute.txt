@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\bin\Debug\net7.0\A. Dubstep.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\bin\Debug\net7.0\A. Dubstep.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\bin\Debug\net7.0\A. Dubstep.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\bin\Debug\net7.0\A. Dubstep.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\bin\Debug\net7.0\A. Dubstep.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\refint\A. Dubstep.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\A. Dubstep.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Dubstep\obj\Debug\net7.0\ref\A. Dubstep.dll
