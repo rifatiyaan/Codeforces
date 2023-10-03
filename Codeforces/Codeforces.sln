@@ -87,7 +87,11 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Insomnia cure", "A. Inso
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Kefa and First Steps", "A. Kefa and First Steps\A. Kefa and First Steps.csproj", "{9CA5823D-B0EE-45D5-80C6-93779A09AE3D}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Dubstep", "A. Dubstep\A. Dubstep.csproj", "{1FACB1AD-6C2C-4928-AA68-550AB3756477}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Dubstep", "A. Dubstep\A. Dubstep.csproj", "{1FACB1AD-6C2C-4928-AA68-550AB3756477}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Anton and Letters", "A. Anton and Letters\A. Anton and Letters.csproj", "{3A0E5F21-9FB0-4731-B220-977667DACB25}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Synergy", "Synergy\Synergy.csproj", "{91A3E95D-262F-4537-9761-87258EA95BE0}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -267,6 +271,14 @@ Global
 		{1FACB1AD-6C2C-4928-AA68-550AB3756477}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{1FACB1AD-6C2C-4928-AA68-550AB3756477}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{1FACB1AD-6C2C-4928-AA68-550AB3756477}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3A0E5F21-9FB0-4731-B220-977667DACB25}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3A0E5F21-9FB0-4731-B220-977667DACB25}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3A0E5F21-9FB0-4731-B220-977667DACB25}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3A0E5F21-9FB0-4731-B220-977667DACB25}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A3E95D-262F-4537-9761-87258EA95BE0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A3E95D-262F-4537-9761-87258EA95BE0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A3E95D-262F-4537-9761-87258EA95BE0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A3E95D-262F-4537-9761-87258EA95BE0}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

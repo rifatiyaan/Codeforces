@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\bin\Debug\net7.0\Synergy.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\bin\Debug\net7.0\Synergy.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\bin\Debug\net7.0\Synergy.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\bin\Debug\net7.0\Synergy.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\bin\Debug\net7.0\Synergy.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\refint\Synergy.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\Synergy.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\Synergy\obj\Debug\net7.0\ref\Synergy.dll

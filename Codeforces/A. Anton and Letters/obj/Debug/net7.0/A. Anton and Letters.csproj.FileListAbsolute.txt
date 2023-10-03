@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\bin\Debug\net7.0\A. Anton and Letters.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\bin\Debug\net7.0\A. Anton and Letters.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\bin\Debug\net7.0\A. Anton and Letters.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\bin\Debug\net7.0\A. Anton and Letters.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\bin\Debug\net7.0\A. Anton and Letters.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\refint\A. Anton and Letters.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\A. Anton and Letters.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Letters\obj\Debug\net7.0\ref\A. Anton and Letters.dll
