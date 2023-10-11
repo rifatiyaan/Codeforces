@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\bin\Debug\net7.0\A. cAPS lOCK.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\bin\Debug\net7.0\A. cAPS lOCK.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\bin\Debug\net7.0\A. cAPS lOCK.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\bin\Debug\net7.0\A. cAPS lOCK.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\bin\Debug\net7.0\A. cAPS lOCK.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\refint\A. cAPS lOCK.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\A. cAPS lOCK.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. cAPS lOCK\obj\Debug\net7.0\ref\A. cAPS lOCK.dll

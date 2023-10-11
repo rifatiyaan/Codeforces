@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\bin\Debug\net7.0\A. IQ test.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\bin\Debug\net7.0\A. IQ test.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\bin\Debug\net7.0\A. IQ test.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\bin\Debug\net7.0\A. IQ test.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\bin\Debug\net7.0\A. IQ test.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\refint\A. IQ test.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\A. IQ test.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. IQ test\obj\Debug\net7.0\ref\A. IQ test.dll

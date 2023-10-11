@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\bin\Debug\net7.0\A. Calculating Function.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\bin\Debug\net7.0\A. Calculating Function.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\bin\Debug\net7.0\A. Calculating Function.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\bin\Debug\net7.0\A. Calculating Function.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\bin\Debug\net7.0\A. Calculating Function.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\refint\A. Calculating Function.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\A. Calculating Function.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Calculating Function\obj\Debug\net7.0\ref\A. Calculating Function.dll
