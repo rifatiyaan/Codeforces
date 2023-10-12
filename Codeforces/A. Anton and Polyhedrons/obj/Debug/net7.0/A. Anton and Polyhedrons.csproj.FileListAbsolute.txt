@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\bin\Debug\net7.0\A. Anton and Polyhedrons.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\bin\Debug\net7.0\A. Anton and Polyhedrons.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\bin\Debug\net7.0\A. Anton and Polyhedrons.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\bin\Debug\net7.0\A. Anton and Polyhedrons.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\bin\Debug\net7.0\A. Anton and Polyhedrons.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\refint\A. Anton and Polyhedrons.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\A. Anton and Polyhedrons.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Anton and Polyhedrons\obj\Debug\net7.0\ref\A. Anton and Polyhedrons.dll
