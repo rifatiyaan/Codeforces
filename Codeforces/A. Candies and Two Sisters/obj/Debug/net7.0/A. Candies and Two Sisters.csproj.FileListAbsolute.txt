@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\bin\Debug\net7.0\A. Candies and Two Sisters.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\bin\Debug\net7.0\A. Candies and Two Sisters.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\bin\Debug\net7.0\A. Candies and Two Sisters.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\bin\Debug\net7.0\A. Candies and Two Sisters.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\bin\Debug\net7.0\A. Candies and Two Sisters.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\refint\A. Candies and Two Sisters.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\A. Candies and Two Sisters.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\obj\Debug\net7.0\ref\A. Candies and Two Sisters.dll

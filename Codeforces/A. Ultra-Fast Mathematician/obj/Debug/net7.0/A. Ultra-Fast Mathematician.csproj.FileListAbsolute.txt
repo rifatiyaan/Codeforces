@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net7.0\A. Ultra-Fast Mathematician.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net7.0\A. Ultra-Fast Mathematician.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net7.0\A. Ultra-Fast Mathematician.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net7.0\A. Ultra-Fast Mathematician.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\bin\Debug\net7.0\A. Ultra-Fast Mathematician.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\refint\A. Ultra-Fast Mathematician.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\A. Ultra-Fast Mathematician.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Ultra-Fast Mathematician\obj\Debug\net7.0\ref\A. Ultra-Fast Mathematician.dll

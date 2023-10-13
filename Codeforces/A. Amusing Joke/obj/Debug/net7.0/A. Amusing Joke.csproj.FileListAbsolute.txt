@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\bin\Debug\net7.0\A. Amusing Joke.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\bin\Debug\net7.0\A. Amusing Joke.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\bin\Debug\net7.0\A. Amusing Joke.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\bin\Debug\net7.0\A. Amusing Joke.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\bin\Debug\net7.0\A. Amusing Joke.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\refint\A. Amusing Joke.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\A. Amusing Joke.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Amusing Joke\obj\Debug\net7.0\ref\A. Amusing Joke.dll
