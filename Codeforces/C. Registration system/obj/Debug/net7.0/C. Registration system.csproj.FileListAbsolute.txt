@@ -1,0 +1,15 @@
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\bin\Debug\net7.0\C. Registration system.exe
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\bin\Debug\net7.0\C. Registration system.deps.json
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\bin\Debug\net7.0\C. Registration system.runtimeconfig.json
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\bin\Debug\net7.0\C. Registration system.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\bin\Debug\net7.0\C. Registration system.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.csproj.AssemblyReference.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.AssemblyInfoInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.AssemblyInfo.cs
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.csproj.CoreCompileInputs.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\refint\C. Registration system.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.pdb
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\C. Registration system.genruntimeconfig.cache
+C:\Users\user\source\repos\Codeforces\Codeforces\C. Registration system\obj\Debug\net7.0\ref\C. Registration system.dll

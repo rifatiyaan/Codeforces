@@ -103,9 +103,13 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Anton and Polyhedrons", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Ultra-Fast Mathematician", "A. Ultra-Fast Mathematician\A. Ultra-Fast Mathematician.csproj", "{72869EFD-8804-4A5C-9087-14E905883FAD}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Candies and Two Sisters", "A. Candies and Two Sisters\A. Candies and Two Sisters.csproj", "{A6BC69C7-EA0E-4C48-BAAD-09FCE8473713}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Candies and Two Sisters", "A. Candies and Two Sisters\A. Candies and Two Sisters.csproj", "{A6BC69C7-EA0E-4C48-BAAD-09FCE8473713}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Amusing Joke", "A. Amusing Joke\A. Amusing Joke.csproj", "{4BAF4775-5B38-4720-BAA0-F495FEFB7D6A}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Amusing Joke", "A. Amusing Joke\A. Amusing Joke.csproj", "{4BAF4775-5B38-4720-BAA0-F495FEFB7D6A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taxi", "Taxi\Taxi.csproj", "{32AE31FC-88E8-42DC-915F-67677B048CA9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Registration system", "C. Registration system\C. Registration system.csproj", "{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -321,6 +325,14 @@ Global
 		{4BAF4775-5B38-4720-BAA0-F495FEFB7D6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{4BAF4775-5B38-4720-BAA0-F495FEFB7D6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{4BAF4775-5B38-4720-BAA0-F495FEFB7D6A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{32AE31FC-88E8-42DC-915F-67677B048CA9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{32AE31FC-88E8-42DC-915F-67677B048CA9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{32AE31FC-88E8-42DC-915F-67677B048CA9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{32AE31FC-88E8-42DC-915F-67677B048CA9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

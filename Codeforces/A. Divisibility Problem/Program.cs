@@ -1,47 +1,29 @@
 ﻿int input = int.Parse(Console.ReadLine());
+List<int> results = new List<int>();
 
-string[,] numbers = new string[input,2];
-
-for(int i = 0; i < input; i++)
+for (int i = 0; i < input; i++)
 {
-    string inputLine = Console.ReadLine();
-    string[] parts = inputLine.Split(' ');
+    var secondLine = Console.ReadLine().Split(" ");
+    int dividend = int.Parse(secondLine[0]);
+    int divisor = int.Parse(secondLine[1]);
 
-    if(parts.Length== 2 )
+    int counter = 0;
+
+    if (dividend % divisor == 0)
     {
-        numbers[i,0] = parts[0];
-        numbers[i,1] = parts[1];
+        results.Add(0);
+    }
+    else
+    {
+        counter = divisor - (dividend % divisor);
+        results.Add(counter);
     }
 }
-//5
 
-//10 4    0,0  0,1
-//13 9    1,0  1,1
-//100 13  2,0  2,1
-//123 456 3,0  3,1
-//92 46   4,0  4,1
-
-int counter = 0;
-
-//if (int.Parse(numbers[input - 1, 0]) % int.Parse(numbers[input-1, 1]) == 0)
-//{
-//    Console.WriteLine("0");
-//}
-//else
-//{
-
-//}
-int rows = numbers.GetLength(0);
-int cols = numbers.GetLength(1);
-Console.WriteLine(rows);
-Console.WriteLine(cols);
-
-for (int i = 0; i < rows; i++)
+foreach (var result in results)
 {
-    for (int j = 0; j < cols; j++)
-    {
-
-    }
+    Console.WriteLine(result);
 }
+
 
 
