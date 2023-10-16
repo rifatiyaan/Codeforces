@@ -109,7 +109,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "A. Amusing Joke", "A. Amusi
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Taxi", "Taxi\Taxi.csproj", "{32AE31FC-88E8-42DC-915F-67677B048CA9}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "C. Registration system", "C. Registration system\C. Registration system.csproj", "{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "C. Registration system", "C. Registration system\C. Registration system.csproj", "{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "A. Fox And Snake", "A. Fox And Snake\A. Fox And Snake.csproj", "{A1552693-B5E7-443E-A616-DA28928E8CBB}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -333,6 +335,10 @@ Global
 		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0773AFA3-0AD2-4F0F-BC8F-A779C78491B3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A1552693-B5E7-443E-A616-DA28928E8CBB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1552693-B5E7-443E-A616-DA28928E8CBB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1552693-B5E7-443E-A616-DA28928E8CBB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A1552693-B5E7-443E-A616-DA28928E8CBB}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
