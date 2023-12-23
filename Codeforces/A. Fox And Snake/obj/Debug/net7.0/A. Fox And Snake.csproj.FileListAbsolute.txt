@@ -3,7 +3,6 @@ C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\bin\Debug\net7
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\bin\Debug\net7.0\A. Fox And Snake.runtimeconfig.json
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\bin\Debug\net7.0\A. Fox And Snake.dll
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\bin\Debug\net7.0\A. Fox And Snake.pdb
-C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.pdb
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.genruntimeconfig.cache
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\ref\A. Fox And Snake.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Fox And Snake\obj\Debug\net7.0\A. Fox And Snake.sourcelink.json

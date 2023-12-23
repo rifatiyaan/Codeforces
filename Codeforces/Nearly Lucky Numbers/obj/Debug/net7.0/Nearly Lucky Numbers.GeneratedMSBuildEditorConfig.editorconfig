@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Nearly_Lucky_Numbers
 build_property.ProjectDir = C:\Users\user\source\repos\Codeforces\Codeforces\Nearly Lucky Numbers\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

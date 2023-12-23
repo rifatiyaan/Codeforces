@@ -3,7 +3,6 @@ C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\bin\Debug\ne
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\bin\Debug\net7.0\A. Hit the Lottery.runtimeconfig.json
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\bin\Debug\net7.0\A. Hit the Lottery.dll
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\bin\Debug\net7.0\A. Hit the Lottery.pdb
-C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.csproj.AssemblyReference.cache
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.AssemblyInfoInputs.cache
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.AssemblyInfo.cs
@@ -13,3 +12,4 @@ C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\ne
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.pdb
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.genruntimeconfig.cache
 C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\ref\A. Hit the Lottery.dll
+C:\Users\user\source\repos\Codeforces\Codeforces\A. Hit the Lottery\obj\Debug\net7.0\A. Hit the Lottery.sourcelink.json

@@ -9,3 +9,5 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = A._Candies_and_Two_Sisters
 build_property.ProjectDir = C:\Users\user\source\repos\Codeforces\Codeforces\A. Candies and Two Sisters\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 
